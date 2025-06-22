@@ -1,6 +1,19 @@
+### 👨‍💻 Data Scientist | 10+ Years Experience | Based in Germany 🇩🇪
 
-### Data Scientist in India
-I’m a Data Engineer living in Bangalore, India. I am a fan of programming, design, and technology. I'm really fascinated by the research and projects happening in Data Science Space.
+Hi! I'm a seasoned Data Scientist based in Germany with over a decade of hands-on experience in solving real-world problems using data. My journey in data began in 2014, and since then, I've grown into a versatile professional with expertise across:
 
-I officially became a Data scientist in 2014 later became well conversant with Azure and Python and was amazed with what all insights can be captured from data.
+- 🧠 **Machine Learning & Deep Learning**
+- 🤖 **Generative AI (GenAI)**
+- ☁️ **Cloud Platforms**: Azure, AWS, GCP
+- 🐍 **Python, SQL, Spark**
+- 🏗️ **Data Engineering & MLOps**
+- 📊 **Business Intelligence & Data Visualization**
 
+I'm passionate about building scalable data systems, uncovering insights through models, and experimenting with the latest in GenAI and LLMs.
+
+💡 I love to stay up-to-date with advancements in data science, contribute to open-source projects, and collaborate with tech communities.
+
+Let’s connect and explore how data can drive innovation and impact! 🚀
+
+<!-- Optionally add contact or social links below -->
+[LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle) | [Portfolio](https://your-website.com)
