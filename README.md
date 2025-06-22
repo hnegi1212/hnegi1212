@@ -9,11 +9,17 @@ Hi! I'm a seasoned Data Scientist based in Germany with over a decade of hands-o
 - 🏗️ **Data Engineering & MLOps**
 - 📊 **Business Intelligence & Data Visualization**
 
-I'm passionate about building scalable data systems, uncovering insights through models, and experimenting with the latest in GenAI and LLMs.
+I’m passionate about building scalable data systems, uncovering insights through models, and pushing the boundaries of what GenAI can do.
 
-💡 I love to stay up-to-date with advancements in data science, contribute to open-source projects, and collaborate with tech communities.
+💼 **Highlighted Projects & Interests**:
+- Fine-tuning LLMs for domain-specific tasks  
+- Building RAG-based knowledge assistants  
+- Automated document processing with OCR + GenAI  
+- Multimodal AI (text + image) pipelines  
+- Code generation & data analysis copilots  
+- Scalable ML pipelines in the cloud  
+- Chatbots with memory and dynamic context retrieval
 
-Let’s connect and explore how data can drive innovation and impact! 🚀
+💡 Always exploring the next breakthrough in data, AI, and automation. Open to collaboration, research, and sharing ideas.
 
-<!-- Optionally add contact or social links below -->
-[LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu11negi/)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/himanshu11negi/)
