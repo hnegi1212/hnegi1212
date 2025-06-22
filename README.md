@@ -16,4 +16,4 @@ I'm passionate about building scalable data systems, uncovering insights through
 Let’s connect and explore how data can drive innovation and impact! 🚀
 
 <!-- Optionally add contact or social links below -->
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle) | [Portfolio](https://your-website.com)
+[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu11negi/))
