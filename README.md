@@ -1,4 +1,4 @@
-### 👨‍💻 Data Scientist | 10+ Years Experience | Based in Germany 🇩🇪
+### 👨‍💻 Data Scientist | 12+ Years Experience | Based in Germany 🇩🇪
 
 Hi! I'm a seasoned Data Scientist based in Germany with over a decade of hands-on experience in solving real-world problems using data. My journey in data began in 2014, and since then, I've grown into a versatile professional with expertise across:
 
